@@ -18,6 +18,8 @@ objelerdir.
   Kılıç Saldırısı: Space tuşuyla tetiklenen, yakın mesafedeki düşmanları hem hasara uğratan hem de
 geri iten alan etkili bir mekaniktir.
   
+  Bomba: Sağ tık ile fırlatılan, belirli bir gecikme sonrası patlayarak ederek büyük grupları temizleyen
+taktiksel bir silahtır
   Bomba: Sağ tık ile fırlatılan, belirli bir gecikme sonrası infilak ederek büyük grupları temizleyen
 taktiksel bir silahtır.
   
